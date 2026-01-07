@@ -1,2 +1,2 @@
 # Digital-Health-Market-Analysis
-Market and data analysis of digital health and telemedicine adoption in India
+This project was created for learning and demonstration purposes using secondary research data and simulated datasets where applicable.
